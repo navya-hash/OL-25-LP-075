@@ -25,6 +25,7 @@ To understand the key factors influencing mental health issues among employees i
 
 
 ## 📂 Project Structure
+```plaintext
 OL-25-LP-075
 ├── models/ # Machine Learning Models
 │ ├── classification_model.ipynb
