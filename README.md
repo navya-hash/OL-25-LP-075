@@ -1,2 +1,0 @@
-# OpenLearnCapestoneProject
-Mental awareness project
