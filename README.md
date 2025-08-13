@@ -25,7 +25,6 @@ To understand the key factors influencing mental health issues among employees i
 
 
 ## 📂 Project Structure
-```plaintext
 OL-25-LP-075
 ├── models/ # Machine Learning Models
 │ ├── classification_model.ipynb
@@ -41,15 +40,14 @@ OL-25-LP-075
     ├── images
 ├── requirements.txt
 └── README.md
-```
 
 
 ## 📌 Important Links
 
-- **EDA Notebook**: [Link to EDA Notebook](https://github.com/navya-hash/OL-25-LP-075/blob/main/MentalWellness/EDA.ipynb)
-- **Classification Notebook**: [Link to Classification Notebook](https://github.com/navya-hash/OL-25-LP-075/blob/main/MentalWellness/classification_model.ipynb)
-- **Regression Notebook**: [Link to Regression Notebook](https://github.com/navya-hash/OL-25-LP-075/blob/main/MentalWellness/regression_model.ipynb)
-- **Clustering Notebook**: [Link to Clustering Notebook](https://github.com/navya-hash/OL-25-LP-075/blob/main/MentalWellness/clustering.ipynb)
+- **EDA Notebook**: [Link to EDA Notebook](https://github.com/navya-hash/OL-25-LP-075/blob/main/EDA.ipynb)
+- **Classification Notebook**: [Link to Classification Notebook](https://github.com/navya-hash/OL-25-LP-075/blob/main/classification_model.ipynb)
+- **Regression Notebook**: [Link to Regression Notebook](https://github.com/navya-hash/OL-25-LP-075/blob/main/regression_model.ipynb)
+- **Clustering Notebook**: [Link to Clustering Notebook](https://github.com/navya-hash/OL-25-LP-075/blob/main/clustering.ipynb)
 - **Streamlit App**: [Hosted App Link](#)
 - **Technical Report**: [Link to Medium Blog](https://medium.com/p/2a060f9b56ab/edit)
 
