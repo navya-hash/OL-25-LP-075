@@ -48,7 +48,7 @@ OL-25-LP-075
 - **Classification Notebook**: [Link to Classification Notebook](https://github.com/navya-hash/OL-25-LP-075/blob/main/classification_model.ipynb)
 - **Regression Notebook**: [Link to Regression Notebook](https://github.com/navya-hash/OL-25-LP-075/blob/main/regression_model.ipynb)
 - **Clustering Notebook**: [Link to Clustering Notebook](https://github.com/navya-hash/OL-25-LP-075/blob/main/clustering.ipynb)
-- **Streamlit App**: [Hosted App Link](#)
+- **Streamlit App**: [Hosted App Link](https://ol-25-lp-075-zyqnlmfujqsacqx94kngtd.streamlit.app/)
 - **Technical Report**: [Link to Medium Blog](https://medium.com/p/2a060f9b56ab/edit)
 
 ---
@@ -57,7 +57,7 @@ OL-25-LP-075
 
 Watch the project in action:
 
-- **Streamlit App Demo**: [Click Here to View Demo](#)
+- **Streamlit App Demo**: [Click Here to View Demo](https://ol-25-lp-075-zyqnlmfujqsacqx94kngtd.streamlit.app/)
 
 ---
 
