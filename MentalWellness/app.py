@@ -64,7 +64,7 @@ from PIL import Image
 
 st.set_page_config(
     page_title="Project Overview",
-    page_icon=Image.open("MentalWellness/pages/images/app.png")  # icon for home page
+    page_icon=Image.open("pages/images/app.png")  # icon for home page
 )
 
 def home():
