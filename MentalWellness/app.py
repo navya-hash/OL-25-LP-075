@@ -1,5 +1,4 @@
-import os
-os.chdir(os.path.join(os.path.dirname(__file__), "MentalWellness"))
+
 
 # import streamlit as st
 # import pandas as pd
